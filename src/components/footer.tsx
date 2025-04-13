@@ -69,17 +69,26 @@ export default function Footer() {
             </h3>
             <ul className="space-y-2">
               <li>
-                <Link href="mailto:tornvisal77@gmail.com" className="text-gray-600 hover:text-blue-600">
+                <Link
+                  href="mailto:tornvisal77@gmail.com"
+                  className="text-gray-600 hover:text-blue-600"
+                >
                   {t("footer.email")}
                 </Link>
               </li>
               <li>
-                <Link href="https://discordapp.com/users/911160495682240545" className="text-gray-600 hover:text-blue-600">
+                <Link
+                  href="https://discordapp.com/users/911160495682240545"
+                  className="text-gray-600 hover:text-blue-600"
+                >
                   {t("footer.discord")}
                 </Link>
               </li>
               <li>
-                <Link href="https://facebook.com/torn.visal.77" className="text-gray-600 hover:text-blue-600">
+                <Link
+                  href="https://facebook.com/torn.visal.77"
+                  className="text-gray-600 hover:text-blue-600"
+                >
                   {t("footer.social")}
                 </Link>
               </li>
@@ -117,19 +126,31 @@ export default function Footer() {
           </div>
 
           <div className="flex space-x-6">
-            <AnimatedSocialIcon className="text-gray-400 hover:text-blue-500">
+            <AnimatedSocialIcon
+              href="https://facebook.com/torn.visal.77"
+              className="text-gray-400 hover:text-blue-500"
+            >
               <span className="sr-only">Facebook</span>
               <Facebook className="h-6 w-6" />
             </AnimatedSocialIcon>
-            <AnimatedSocialIcon className="text-gray-400 hover:text-pink-500">
+            <AnimatedSocialIcon
+              href="https://instagram.com/tony_flee"
+              className="text-gray-400 hover:text-pink-500"
+            >
               <span className="sr-only">Instagram</span>
               <Instagram className="h-6 w-6" />
             </AnimatedSocialIcon>
-            <AnimatedSocialIcon className="text-gray-400 hover:text-blue-500">
+            <AnimatedSocialIcon
+              href="https://discordapp.com/users/911160495682240545"
+              className="text-gray-400 hover:text-blue-500"
+            >
               <span className="sr-only">Discord</span>
               <DiscordLogoIcon className="h-6 w-6" />
             </AnimatedSocialIcon>
-            <AnimatedSocialIcon className="text-gray-400 hover:text-white">
+            <AnimatedSocialIcon
+              href="https://github.com/tonyflee"
+              className="text-gray-400 hover:text-white"
+            >
               <span className="sr-only">GitHub</span>
               <Github className="h-6 w-6" />
             </AnimatedSocialIcon>
