@@ -134,7 +134,7 @@ export default function Footer() {
               <Facebook className="h-6 w-6" />
             </AnimatedSocialIcon>
             <AnimatedSocialIcon
-              href="https://instagram.com/tony_flee"
+              href="https://www.instagram.com/torn.visal.77/"
               className="text-gray-400 hover:text-pink-500"
             >
               <span className="sr-only">Instagram</span>
@@ -148,7 +148,7 @@ export default function Footer() {
               <DiscordLogoIcon className="h-6 w-6" />
             </AnimatedSocialIcon>
             <AnimatedSocialIcon
-              href="https://github.com/tonyflee"
+              href="https://github.com/TonyFlee"
               className="text-gray-400 hover:text-white"
             >
               <span className="sr-only">GitHub</span>
