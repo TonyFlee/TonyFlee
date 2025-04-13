@@ -10,8 +10,11 @@ import { LanguageProvider } from "@/context/language-context";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tony Flee - Personal Portfolio",
+  title: "Torn Visal | Tony Flee",
   description: "A modern full-stack starter template powered by Next.js",
+  icons: {
+    icon: "/favicon.ico", // 👈 This is where you set the favicon
+  },
 };
 
 export default function RootLayout({
@@ -21,6 +24,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        {/* You can add more meta tags here if needed */}
+        <link rel="icon" href="/favicon.ico" />
+      </head>
       <Script src="https://api.tempolabs.ai/proxy-asset?url=https://storage.googleapis.com/tempo-public-assets/error-handling.js" />
       <body className={inter.className}>
         <ThemeProvider
