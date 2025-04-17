@@ -83,18 +83,6 @@ const images = [
     width: 1,
     height: 1.1,
   },
-  {
-    url: "https://i.imgur.com/6H2MN0u.jpeg",
-    alt: "Portrait 14",
-    width: 1,
-    height: 1.3,
-  },
-  {
-    url: "https://i.imgur.com/UhAL2vP.jpeg",
-    alt: "Portrait 15",
-    width: 1,
-    height: 1.1,
-  },
 ];
 
 export default function MasonryGallery() {
