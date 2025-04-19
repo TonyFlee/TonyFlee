@@ -54,7 +54,7 @@ const images = [
     height: 1.2,
   },
   {
-    url: "https://i.imgur.com/pMrj7tJ.jpeg",
+    url: "https://i.imgur.com/Huk0Bsw.jpeg",
     alt: "Portrait 9",
     width: 1,
     height: 1.4,
@@ -78,7 +78,7 @@ const images = [
     height: 1.2,
   },
   {
-    url: "https://i.imgur.com/kk6KbLr.jpeg",
+    url: "https://i.imgur.com/kCea5tq.jpeg",
     alt: "Portrait 13",
     width: 1,
     height: 1.1,
