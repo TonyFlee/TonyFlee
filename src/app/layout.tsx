@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Torn Visal | Tony Flee",
   description: "Wassup Dowgggg",
   icons: {
-    icon: "/favicon.ico", // 👈 This is where you set the favicon
+    icon: "/favicon.ico", // 👈 This is where you set the favicon hm
   },
 };
 
