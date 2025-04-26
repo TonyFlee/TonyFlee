@@ -6,7 +6,7 @@ import { ChevronLeft, ChevronRight, X, Maximize2 } from "lucide-react";
 
 const images = [
   {
-    url: "https://i.imgur.com/oKRtTz0.jpeg",
+    url: "https://i.imgur.com/Huk0Bsw.jpeg",
     alt: "Portrait 1",
     width: 1,
     height: 1.2,
