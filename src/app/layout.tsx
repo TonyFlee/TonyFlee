@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Torn Visal | Tony Flee",
-  description: "A modern full-stack starter template powered by Next.js",
+  description: "Wassup Dowgggg",
   icons: {
     icon: "/favicon.ico", // 👈 This is where you set the favicon
   },
