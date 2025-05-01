@@ -6,6 +6,7 @@ import { TempoInit } from "@/components/tempo-init";
 import SmoothScroll from "@/components/smooth-scroll";
 import { ThemeProvider } from "@/components/theme-provider";
 import { LanguageProvider } from "@/context/language-context";
+import { Analytics } from "@vercel/analytics/react"
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -38,6 +39,7 @@ export default function RootLayout({
         >
           <LanguageProvider>{children}</LanguageProvider>
         </ThemeProvider>
+        <Analytics />
         <TempoInit />
         <SmoothScroll />
       </body>

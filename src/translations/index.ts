@@ -11,6 +11,7 @@ export const translations = {
 
     // Hero
     "hero.name": "Torn Visal",
+    "hero.role": "Creative",
     "hero.subtitle":
       "17-year-old creative from Cambodia, passionate about gaming, music, and web exploration.",
     "hero.aboutButton": "About Me",
@@ -87,6 +88,7 @@ export const translations = {
 
     // Hero
     "hero.name": "ទន វិសាល",
+    "hero.role": "អ្នកច្នៃប្រឌិត",
     "hero.subtitle":
       "អ្នកច្នៃប្រឌិតអាយុ១៧ឆ្នាំមកពីប្រទេសកម្ពុជា ដែលចូលចិត្តលេងហ្គេម តន្ត្រី និងការស្វែងយល់ពីបណ្តាញអ៊ីនធឺណិត។",
     "hero.aboutButton": "អំពីខ្ញុំ",
