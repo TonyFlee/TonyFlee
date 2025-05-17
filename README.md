@@ -22,7 +22,7 @@ I’m on a mission to enhance my skills every day. Whether it's learning new Jav
 
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyflee&label=Profile%20views&color=0e75b6&style=flat" alt="tonyflee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyflee&label=Profile%20views&color=468e83&style=flat" alt="tonyflee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonyflee" alt="tonyflee" /></a> </p>
 
