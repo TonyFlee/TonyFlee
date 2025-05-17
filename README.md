@@ -7,7 +7,7 @@ I'm a 17-year-old Grade 10 student from Siem Reap, Cambodia, with a passion for 
 - 💻 **Currently learning**: HTML, CSS, JavaScript, and exploring other web technologies.
 - 🧑‍🎓 **Education**: Grade 10 student, working hard to combine my studies with my passion for coding.
 - 🌍 **Location**: Siem Reap, Cambodia
-- 📅 **Age**: 17
+- 📅 **Age**: 16
   
 ## 🎯 Goals
 
