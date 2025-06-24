@@ -1,11 +1,11 @@
 # Hi there, I'm Torn Visal (aka Tony Flee) 👋
 
-I'm a 17-year-old Grade 10 student from Siem Reap, Cambodia, with a passion for web development. Currently, I'm diving deep into learning web development and improving my coding skills every day. My ultimate goal is to become a skilled web developer and master all programming languages.
+I'm a 17-year-old from Siem Reap, Cambodia, with a passion for web development. Currently, I'm diving deep into learning web development and improving my coding skills every day. My ultimate goal is to become a skilled web developer and master all programming languages.
 
 ## 🚀 About Me
 
 - 💻 **Currently learning**: HTML, CSS, JavaScript, and exploring other web technologies.
-- 🧑‍🎓 **Education**: Grade 10 student, working hard to combine my studies with my passion for coding.
+- 🧑‍🎓 **Education**: Grade X student, working hard to combine my studies with my passion for coding.
 - 🌍 **Location**: Siem Reap, Cambodia
 - 📅 **Age**: 17
   
