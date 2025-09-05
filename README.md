@@ -55,6 +55,7 @@ CSS           ██▊░░░░░░░░░░░░░░░░░░░
 Python        █▎░░░░░░░░░░░░░░░░░░░░░░   4.3% 
 Other         ▊░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
 
+<!--END_SECTION:waka-->
 
 🎯 Current Projects
 🔥 Featured Repository
@@ -85,3 +86,4 @@ https://img.shields.io/github/followers/tonyflee?logo=github&style=social
 Last updated on {{DATE}}
 
 </div> ```
+
