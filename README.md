@@ -60,13 +60,6 @@ I'm a 17-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 </div>
 
-## Discord Contact
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/911160495682240545)
-**Username:** TonyFlee#1234
-
-[![Join My Server](https://img.shields.io/badge/Join_My_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
-
 ## Current Projects
 
 ### Featured Repository
@@ -82,42 +75,9 @@ I'm a 17-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 <!--START_SECTION:waka-->
 
-
-JavaScript    ████████████████████▋░░░   85.4% 
+```text
+JavaScript    ████░░░░░░░░░░░░░░░░░░░░   20.0% 
 HTML          ████▌░░░░░░░░░░░░░░░░░░░   15.2% 
 CSS           ██▊░░░░░░░░░░░░░░░░░░░░░   9.8% 
 Python        █▎░░░░░░░░░░░░░░░░░░░░░░   4.3% 
 Other         ▊░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
-
-<!--END_SECTION:waka-->
-Connect With Me
-<div align="center">
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-
-</div>
-Let's Collaborate
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-<div align="center">
-Email Me
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-Portfolio Website
-https://img.shields.io/badge/Portfolio-468E83?style=for-the-badge&logo=google-chrome&logoColor=white
-
-Discord Server
-https://img.shields.io/badge/Join_My_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
-
-</div>
-<div align="center">
-https://komarev.com/ghpvc/?username=tonyflee&label=Profile+Views&color=468e83&style=flat-square
-
-https://img.shields.io/github/followers/tonyflee?logo=github&style=social
-
-Last updated on {{DATE}}
-
-</div> ```
