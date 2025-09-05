@@ -51,6 +51,22 @@ I'm a 17-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 ![](https://github-profile-trophy.vercel.app/?username=tonyflee&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
+## Discord Status
+
+<div align="center">
+
+<!-- Discord Status Template from https://github.com/marketplace/actions/discord-profile-token -->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/911160495682240545?theme=light&bg=00000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20coding%20something%20amazing...)](https://discord.com/users/911160495682240545)
+
+</div>
+
+## Discord Contact
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/911160495682240545)
+**Username:** TonyFlee#1234
+
+[![Join My Server](https://img.shields.io/badge/Join_My_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
+
 ## Current Projects
 
 ### Featured Repository
@@ -62,48 +78,46 @@ I'm a 17-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project1&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)](https://github.com/tonyflee/project1)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project2&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)](https://github.com/tonyflee/project2)
 
-## Connect With Me
+## Weekly Development Activity
 
-<p align="left">
-  <a href="https://fb.com/torn.visal.77" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/torn.visal.77" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discordapp.com/users/911160495682240545" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/tonyflee" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/tonyflee" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
+<!--START_SECTION:waka-->
 
-## Let's Collaborate
 
+JavaScript    ████████████████████▋░░░   85.4% 
+HTML          ████▌░░░░░░░░░░░░░░░░░░░   15.2% 
+CSS           ██▊░░░░░░░░░░░░░░░░░░░░░   9.8% 
+Python        █▎░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+Other         ▊░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
+
+<!--END_SECTION:waka-->
+Connect With Me
+<div align="center">
+https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+
+</div>
+Let's Collaborate
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 <div align="center">
+Email Me
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-### Email Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tonyflee.example@gmail.com)
+Portfolio Website
+https://img.shields.io/badge/Portfolio-468E83?style=for-the-badge&logo=google-chrome&logoColor=white
 
-### Portfolio Website
-[![Portfolio](https://img.shields.io/badge/Portfolio-468E83?style=flat-square&logo=google-chrome&logoColor=white)](https://tonyflee.github.io)
+Discord Server
+https://img.shields.io/badge/Join_My_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
 
 </div>
-
----
-
 <div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=tonyflee&label=Profile+Views&color=468e83&style=flat-square)
+https://komarev.com/ghpvc/?username=tonyflee&label=Profile+Views&color=468e83&style=flat-square
 
-[![GitHub followers](https://img.shields.io/github/followers/tonyflee?logo=github&style=social)](https://github.com/tonyflee?tab=followers)
+https://img.shields.io/github/followers/tonyflee?logo=github&style=social
 
-*Last updated on {{DATE}}* 
+Last updated on {{DATE}}
 
-</div>
+</div> ```
