@@ -8,13 +8,13 @@ I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 <span>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **Currently learning**: Advanced JavaScript, React, Node.js</span>
 
-<span>![Book](https://img.shields.io/badge/Education-Grade%20X-8A2BE2?style=flat-square&logo=bookstack&logoColor=white) **Education**: Grade X student balancing academics with coding passion</span>
+<span>![Book](https://img.shields.io/badge/Education-8A2BE2?style=flat-square&logo=bookstack&logoColor=white) : Grade X student balancing academics with coding passion</span>
 
-<span>![Location](https://img.shields.io/badge/Location-Siem%20Reap%2C%20Cambodia-FF5733?style=flat-square&logo=google-maps&logoColor=white) **Location**: Siem Reap, Cambodia</span>
+<span>![Location](https://img.shields.io/badge/Location-FF5733?style=flat-square&logo=google-maps&logoColor=white) : Siem Reap, Cambodia</span>
 
-<span>![User](https://img.shields.io/badge/Age-17-2ECC71?style=flat-square&logo=github&logoColor=white) **Age**: 17</span>
+<span>![User](https://img.shields.io/badge/Age-2ECC71?style=flat-square&logo=github&logoColor=white) : 18</span>
 
-<span>![Goal](https://img.shields.io/badge/2024%20Goals-Contribute%20to%20Open%20Source%20%26%20Build%2010+%20Apps-1E90FF?style=flat-square&logo=target&logoColor=white) **2024 Goals**: Contribute to Open Source and build 10+ applications</span>
+<span>![Goal](https://img.shields.io/badge/2025%20Goals-1E90FF?style=flat-square&logo=target&logoColor=white) : Contribute to Open Source and build 10+ applications</span>
 
 
 ## Tech Stack
@@ -81,6 +81,7 @@ I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project1&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)]([https://github.com/tonyflee/project1](https://www.yeungthott.site/))
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project2&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)](https://github.com/tonyflee/project2)
+
 
 
 
