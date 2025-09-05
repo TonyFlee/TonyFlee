@@ -60,10 +60,15 @@ I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/911160495682240545?theme=dark&bg=00000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20coding%20something%20amazing...)](https://discord.com/users/911160495682240545)
+### 🎮 Connect with me on Discord
+[![Discord](https://img.shields.io/badge/Discord-TonyFlee%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/911160495682240545)
+
+**Status:** Online 🟢  
+**Currently:** Coding web projects 💻
+
+[![Add me on Discord](https://img.shields.io/badge/Add_Me_On_Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/911160495682240545)
 
 </div>
-
 
 
 ## Current Projects
@@ -76,5 +81,6 @@ I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project1&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)]([https://github.com/tonyflee/project1](https://www.yeungthott.site/))
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project2&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)](https://github.com/tonyflee/project2)
+
 
 
