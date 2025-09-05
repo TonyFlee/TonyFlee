@@ -57,33 +57,3 @@ Other         ▊░░░░░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-🎯 Current Projects
-🔥 Featured Repository
-https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=tonyflee&theme=vue-dark&bg_color=0d1117&title_color=468e83&icon_color=468e83&hide_border=true
-
-🌟 Recent Projects
-https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project1&theme=vue-dark&bg_color=0d1117&title_color=468e83&icon_color=468e83&hide_border=true
-https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project2&theme=vue-dark&bg_color=0d1117&title_color=468e83&icon_color=468e83&hide_border=true
-
-📫 Connect With Me
-<p align="left"> <a href="https://fb.com/torn.visal.77" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="torn.visal.77" height="30" width="40" /> </a> <a href="https://instagram.com/torn.visal.77" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torn.visal.77" height="30" width="40" /> </a> <a href="https://discord.gg/https://discordapp.com/users/911160495682240545" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TonyFlee#1234" height="30" width="40" /> </a> <a href="https://linkedin.com/in/tonyflee" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonyflee" height="30" width="40" /> </a> <a href="https://twitter.com/tonyflee" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonyflee" height="30" width="40" /> </a> </p>
-💌 Let's Collaborate!
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out if you'd like to build something amazing together!
-
-<div align="center">
-📧 Email Me
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-👨‍💻 Check Out My Portfolio
-https://img.shields.io/badge/Portfolio-468E83?style=for-the-badge&logo=google-chrome&logoColor=white
-
-</div>
-<div align="center">
-https://komarev.com/ghpvc/?username=tonyflee&label=Profile%2520Views&color=468e83&style=flat
-
-https://img.shields.io/github/followers/tonyflee?logo=github&style=social
-
-Last updated on {{DATE}}
-
-</div> ```
-
