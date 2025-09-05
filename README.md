@@ -2,19 +2,20 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=468E83&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Open+Source+Enthusiast;Continuous+Learner;From+Siem+Reap,+Cambodia)
 
-I'm a 17-year-old passionate developer from Siem Reap, Cambodia, focused on mastering web development and building innovative digital solutions.
+I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mastering web development and building innovative digital solutions.
 
 ## About Me
 
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> **Currently learning**: Advanced JavaScript, React, Node.js</span>
+<span>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **Currently learning**: Advanced JavaScript, React, Node.js</span>
 
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/school/school-original.svg" width="18" height="18" /> **Education**: Grade X student balancing academics with coding passion</span>
+<span>![Book](https://img.shields.io/badge/Education-Grade%20X-8A2BE2?style=flat-square&logo=bookstack&logoColor=white) **Education**: Grade X student balancing academics with coding passion</span>
 
-<span><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kh.svg" width="18" height="18" /> **Location**: Siem Reap, Cambodia</span>
+<span>![Location](https://img.shields.io/badge/Location-Siem%20Reap%2C%20Cambodia-FF5733?style=flat-square&logo=google-maps&logoColor=white) **Location**: Siem Reap, Cambodia</span>
 
-<span><img src="https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/person_heart.svg" width="18" height="18" /> **Age**: 17</span>
+<span>![User](https://img.shields.io/badge/Age-17-2ECC71?style=flat-square&logo=github&logoColor=white) **Age**: 17</span>
 
-<span><img src="https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/target.svg" width="18" height="18" /> **2024 Goals**: Contribute to Open Source and build 10+ applications</span>
+<span>![Goal](https://img.shields.io/badge/2024%20Goals-Contribute%20to%20Open%20Source%20%26%20Build%2010+%20Apps-1E90FF?style=flat-square&logo=target&logoColor=white) **2024 Goals**: Contribute to Open Source and build 10+ applications</span>
+
 
 ## Tech Stack
 
@@ -22,8 +23,12 @@ I'm a 17-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -68,16 +73,5 @@ I'm a 17-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 ### Recent Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project1&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)](https://github.com/tonyflee/project1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project1&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)]([https://github.com/tonyflee/project1](https://www.yeungthott.site/))
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project2&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)](https://github.com/tonyflee/project2)
-
-## Weekly Development Activity
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript    ████░░░░░░░░░░░░░░░░░░░░   20.0% 
-HTML          ████▌░░░░░░░░░░░░░░░░░░░   15.2% 
-CSS           ██▊░░░░░░░░░░░░░░░░░░░░░   9.8% 
-Python        █▎░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-Other         ▊░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
