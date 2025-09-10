@@ -6,7 +6,7 @@ I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 ## About Me
 
-<span>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **Currently learning**: Advanced JavaScript, React, Node.js</span>
+<span>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) : Advanced JavaScript, React, Node.js</span>
 
 <span>![Book](https://img.shields.io/badge/Education-8A2BE2?style=flat-square&logo=bookstack&logoColor=white) : Grade X student balancing academics with coding passion</span>
 
@@ -79,6 +79,7 @@ I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project1&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)]([https://github.com/tonyflee/project1](https://www.yeungthott.site/))
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project2&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)](https://github.com/tonyflee/project2)
+
 
 
 
