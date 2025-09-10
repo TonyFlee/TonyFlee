@@ -12,8 +12,6 @@ I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 <span>![Location](https://img.shields.io/badge/Location-FF5733?style=flat-square&logo=google-maps&logoColor=white) : Siem Reap, Cambodia</span>
 
-<span>![User](https://img.shields.io/badge/Age-2ECC71?style=flat-square&logo=github&logoColor=white) : 18</span>
-
 <span>![Goal](https://img.shields.io/badge/2025%20Goals-1E90FF?style=flat-square&logo=target&logoColor=white) : Contribute to Open Source and build 10+ applications</span>
 
 
@@ -81,6 +79,7 @@ I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project1&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)]([https://github.com/tonyflee/project1](https://www.yeungthott.site/))
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project2&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)](https://github.com/tonyflee/project2)
+
 
 
 
