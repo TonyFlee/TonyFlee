@@ -1,4 +1,4 @@
-# Hello World, I'm Torn Visal (Tony Flee) 
+# Hello World, I'm Torn Visal (Fl33) 
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=468E83&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Open+Source+Enthusiast;Continuous+Learner;From+Siem+Reap,+Cambodia)
 
@@ -12,7 +12,7 @@ I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mast
 
 <span>![Location](https://img.shields.io/badge/Location-FF5733?style=flat-square&logo=google-maps&logoColor=white) : Siem Reap, Cambodia</span>
 
-<span>![Goal](https://img.shields.io/badge/2025%20Goals-1E90FF?style=flat-square&logo=target&logoColor=white) : Contribute to Open Source and build 10+ applications</span>
+<span>![Goal](https://img.shields.io/badge/2025%20Goals-1E90FF?style=flat-square&logo=target&logoColor=white) : Contribute to Open Source</span>
 
 
 ## Tech Stack
