@@ -50,38 +50,6 @@ I'm a 18-year-old passionate developer from Siem Reap, Cambodia, focused on mast
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonyflee&theme=vue&bg_color=00000000&color=468e83&line=468e83&point=468e83&area=true&hide_border=true" />
 </div>
 
-## GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=tonyflee&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-## Discord Status
-
-<div align="center">
-
-### 🎮 Connect with me on Discord
-[![Discord](https://img.shields.io/badge/Discord-TonyFlee%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/911160495682240545)
-
-**Status:** Online 🟢  
-**Currently:** Coding web projects 💻
-
-[![Add me on Discord](https://img.shields.io/badge/Add_Me_On_Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/911160495682240545)
-
-</div>
-
-
-## Current Projects
-
-### Featured Repository
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=tonyflee&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)](https://github.com/tonyflee/tonyflee)
-
-### Recent Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project1&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)]([https://github.com/tonyflee/project1](https://www.yeungthott.site/))
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tonyflee&repo=project2&theme=vue&bg_color=00000000&title_color=468e83&icon_color=468e83&hide_border=true)](https://github.com/tonyflee/project2)
-
-
-
 
 
 
