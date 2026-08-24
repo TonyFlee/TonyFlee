@@ -12,22 +12,11 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>18-year-old developer from Siem Reap, Cambodia</li>
-        <li>Passionate about web development and building innovative solutions</li>
-        <li>Currently balancing Grade X academics with coding</li>
-        <li>2026 Goal: Contribute to major open source projects</li>
-        <li>Always learning and exploring new technologies</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding" />
-    </td>
-  </tr>
-</table>
+- 18-year-old developer from Siem Reap, Cambodia
+- Passionate about web development and building innovative solutions
+- Currently balancing Grade X academics with coding
+- 2026 Goal: Contribute to major open source projects
+- Always learning and exploring new technologies
 
 ---
 
@@ -63,39 +52,16 @@
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tonyflee&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=468e83&icon_color=468e83&text_color=c9d1d9" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonyflee&hide_border=true&background=0d1117&stroke=468e83&ring=468e83&fire=468e83&currStreakLabel=468e83&sideLabels=468e83&dates=c9d1d9" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tonyflee&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=468e83&icon_color=468e83&text_color=c9d1d9" alt="GitHub Stats" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tonyflee&hide_border=true&background=0d1117&stroke=468e83&ring=468e83&fire=468e83&currStreakLabel=468e83&sideLabels=468e83&dates=c9d1d9" alt="Streak Stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonyflee&theme=react-dark&bg_color=0d1117&color=468e83&line=468e83&point=468e83&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyflee&layout=compact&hide_border=true&bg_color=0d1117&title_color=468e83&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tonyflee&theme=onedark&no-frame=true&row=2&column=3&bg_color=0d1117" alt="GitHub Trophies" />
 </div>
 
 ---
