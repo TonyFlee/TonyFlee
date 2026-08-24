@@ -12,16 +12,45 @@
 
 ## About Me
 
-<div align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=468E83&center=true&vCenter=true&width=600&lines=18+Years+Old+Developer;From+Siem+Reap%2C+Cambodia;Grade+X+Student;Passionate+About+Coding;Building+The+Future" alt="About Me Animation" />
-</div>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Who I Am</h3>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=800&color=468E83&center=true&vCenter=true&width=400&lines=18+Year+Old+Developer;From+Siem+Reap%2C+Cambodia;Grade+X+Student;Self-Taught+Programmer;Future+Tech+Leader" alt="About Me Typing" />
+      </p>
+      <ul>
+        <li>Transforming ideas into digital reality</li>
+        <li>Passionate about clean code and elegant solutions</li>
+        <li>Balancing education with technology exploration</li>
+        <li>Building projects that make a difference</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">What I Do</h3>
+      <ul>
+        <li>Full-stack web development</li>
+        <li>Open source contribution</li>
+        <li>Continuous learning and growth</li>
+        <li>Problem solving and innovation</li>
+      </ul>
+      <br>
+      <p align="center">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Coding Animation" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-- Building innovative web solutions with modern technologies
-- Balancing academics and coding with dedication
-- Focused on mastering full-stack development
-- Open source contributor and lifelong learner
-- Turning ideas into reality through code
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-Cambodia-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Age-18-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-Grade_X-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack-green?style=flat-square" />
+</div>
+
 ---
 
 ## Technology Stack
