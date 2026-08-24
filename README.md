@@ -12,12 +12,16 @@
 
 ## About Me
 
-- 18-year-old developer from Siem Reap, Cambodia
-- Passionate about web development and building innovative solutions
-- Currently balancing Grade X academics with coding
-- 2026 Goal: Contribute to major open source projects
-- Always learning and exploring new technologies
+<div align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=468E83&center=true&vCenter=true&width=600&lines=18+Years+Old+Developer;From+Siem+Reap%2C+Cambodia;Grade+X+Student;Passionate+About+Coding;Building+The+Future" alt="About Me Animation" />
+</div>
 
+<br>
+
+- Building innovative web solutions with modern technologies
+- Balancing academics and coding with dedication
+- Focused on mastering full-stack development
+- Open source contributor and lifelong learner
+- Turning ideas into reality through code
 ---
 
 ## Technology Stack
