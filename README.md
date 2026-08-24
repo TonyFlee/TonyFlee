@@ -1,4 +1,6 @@
-# Hello World, I'm Torn Visal (Fl33)
+<div align="center">
+  <h1>Hello World, I'm Torn Visal (Fl33)</h1>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=468E83&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Advocate;Lifelong+Learner;From+Siem+Reap%2C+Cambodia" alt="Typing Animation" />
