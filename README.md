@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Torn Visal (Fl33)
+# Hello World, I'm Torn Visal (Fl33)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=468E83&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Advocate;Lifelong+Learner;From+Siem+Reap%2C+Cambodia" alt="Typing Animation" />
@@ -10,17 +10,17 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 <table>
   <tr>
     <td>
       <ul>
-        <li>🧑‍💻 <strong>18-year-old</strong> developer from Siem Reap, Cambodia</li>
-        <li>🚀 Passionate about <strong>web development</strong> and building innovative solutions</li>
-        <li>📚 Currently balancing <strong>Grade X</strong> academics with coding</li>
-        <li>🎯 <strong>2026 Goal:</strong> Contribute to major open source projects</li>
-        <li>💡 Always learning and exploring new technologies</li>
+        <li>18-year-old developer from Siem Reap, Cambodia</li>
+        <li>Passionate about web development and building innovative solutions</li>
+        <li>Currently balancing Grade X academics with coding</li>
+        <li>2026 Goal: Contribute to major open source projects</li>
+        <li>Always learning and exploring new technologies</li>
       </ul>
     </td>
     <td>
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend Development
 <p>
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Tools & Platforms
+### Tools and Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <table>
@@ -84,7 +84,7 @@
 
 ---
 
-## 🔥 Top Languages
+## Top Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyflee&layout=compact&hide_border=true&bg_color=0d1117&title_color=468e83&text_color=c9d1d9" alt="Top Languages" />
@@ -92,7 +92,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tonyflee&theme=onedark&no-frame=true&row=2&column=3&bg_color=0d1117" alt="GitHub Trophies" />
@@ -100,7 +100,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/tonyflee">
@@ -118,14 +118,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-## 💬 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
 ---
